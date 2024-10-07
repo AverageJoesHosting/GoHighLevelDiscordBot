@@ -9,8 +9,6 @@ No more switching between platforms—get notified instantly, stay responsive, a
 
 🌟 **Get GoHighLevel**:🔗 [**Click here to get GoHighLevel**](https://www.gohighlevel.com) and start streamlining your workflows!
 
-![Automation Booster Screenshot](https://averagejoeshosting.com/wp-content/uploads/2024/08/automation_booster_screen.png)
-
 💡 **Bot Commands**
 -------------------
 
