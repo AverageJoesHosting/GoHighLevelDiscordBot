@@ -5,6 +5,8 @@ Stay instantly informed with the **GoHighLevel Discord Bot**! This powerful tool
 
 No more switching between platforms—get notified instantly, stay responsive, and keep your team in the loop. With easy setup and a straightforward set of commands, the **GoHighLevel Discord Bot** simplifies your workflow by integrating GoHighLevel notifications into your Discord server.
 
+**Get your free bot license**:🔗 [**Click here to get your free license**](https://averagejoeshosting.com/portal/order/discord-bots-and-services/109).
+
 🌟 **Get GoHighLevel**:🔗 [**Click here to get GoHighLevel**](https://www.gohighlevel.com) and start streamlining your workflows!
 
 💡 **Bot Commands**
@@ -40,9 +42,13 @@ No more switching between platforms—get notified instantly, stay responsive, a
 🛠 **Installation**
 -------------------
 
-To add the bot to your Discord server, click the link below:
-
-🔗 [**Add GoHighLevel Discord Bot**](https://discord.com/oauth2/authorize?client_id=1291943904853098508&permissions=26624&response_type=code&redirect_uri=https://averagejoeshosting.com&integration_type=0&scope=messages.read+applications.commands+bot)
+1.  **Get your free bot license**:🔗 [**Click here to get your free license**](https://averagejoeshosting.com/portal/order/discord-bots-and-services/109).
+    
+2.  **Add the bot to your server**:🔗 [**Click here to add GoHighLevel Discord Bot**](https://discord.com/oauth2/authorize?client_id=1291943904853098508&permissions=26624&response_type=code&redirect_uri=https://averagejoeshosting.com&integration_type=0&scope=messages.read+applications.commands+bot)
+    
+3.  Use /activate-license to activate your product license.
+    
+4.  Check your license status at any time with /check-license.
 
 
 📝 **Setup Instructions**
